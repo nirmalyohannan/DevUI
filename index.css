@@ -1,0 +1,10 @@
+body
+{
+    margin: 0px;
+    font-family: 'calibri';
+}
+:root{
+    --secondColor: rgb(47, 58, 178);
+    --hoverColor:rgba(47, 58, 178, 0.168);
+    --borderRadius: 5px;
+}
